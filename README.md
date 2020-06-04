@@ -1,7 +1,7 @@
 ## Welcome to Vulpure's GitHub Pages
 
-U can view my pages from https://vulpure.github.io and learn my minds about cyber security , certifition CISSP , risk management and so on ...
+It is an honour that u can view my pages from https://vulpure.github.io and learn my minds about cyber security , certifition CISSP , risk management and so on ...
 
-enjoy ur time
+Any question please feel free to comment and enjoy ur time
 
 
